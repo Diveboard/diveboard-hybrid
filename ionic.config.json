@@ -1,0 +1,8 @@
+{
+  "name": "diveboard",
+  "app_id": "e7777df8",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
